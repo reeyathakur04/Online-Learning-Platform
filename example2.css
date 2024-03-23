@@ -1,0 +1,158 @@
+
+nav {
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #fff200;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: rgb(135, 34, 34);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #4CAF50;
+    color: #ffffff;
+}
+
+
+
+html{background-color: #0a0a0a; max-height: 10;}
+main {
+    background-color: #E8E8E6;
+    height: max-content;
+    padding: 20px;
+}
+
+
+
+
+#heading{font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     font-size:130px; 
+     margin-top:-1px; 
+     margin-bottom:-18px;
+     color:#fbfbf8 ;
+     text-align:center;
+    }
+.cover{ display:flex;
+    flex-direction: column;
+    
+    background-color: #112636;
+    }    
+
+/*#rentword{color:#bda58c}*/ 
+h4{color:#eaea0e; 
+    text-align:right;
+    margin-top:-1em; 
+    margin-top:1em;
+    padding-right: 1em;
+    padding-top: -30em;
+    padding-bottom: -35em; }
+
+
+/*homepage*/    
+.c-c{
+    display: flex;
+    flex-wrap: wrap;
+    width: 95%;
+    display: inline-flex;
+}
+.card{
+    margin: 0 5px 0 5px;
+    border: 7px solid #112636;
+    height: 370px;
+    width: 285px;
+    padding: 15px 15px 22px 15px;
+    background-color:#fafafa;
+}
+#logo1,#logo2,#logo3{ display:flex;
+                      align-items: center;
+                      color:rgb(255, 252, 252);margin-top:0px; margin-bottom:3px;}
+
+
+
+.c-title{
+    font-size:25px;
+     font-family:Verdana, Geneva, Tahoma, sans-serif;
+     margin-bottom:0px;color:#4CAF50;
+    }
+.c-details{
+    margin-bottom:0px;
+     margin-top:5px;
+}
+.c-pricing{
+     margin-bottom:0px;
+    margin-bottom:0px;
+    font-family:sans-serif;
+}
+.c-price{
+    font-size:23px;
+     margin-top:0px;
+    margin-bottom:-5px;
+}
+#perday{
+    font-size:16px;
+}
+#toppicks,#budget-options{
+    font-size:27px;
+    text-decoration: solid;
+     margin-bottom: 0.8em;
+     margin-top:1em;
+     padding-left: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(135, 34, 34);
+}
+
+
+.rentbutton{margin-bottom:0em; margin-left: 80%;background-color: #c8d9e5; border-width: 3px; padding: 5px 11px 5px 11px; border-radius: 39%;}
+
+footer {
+    background-color: #112636;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+}
+
+button {
+    background-color: #fff200;
+    color: #112636;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: list-item;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+
+
+
+/*#BCC5CE
+#918981
+#7A7067
+#302b23
+#729599*
+
+#bbd1d2
+
+#E6DFD9
+
+background-color:#E6DFD9
+/
